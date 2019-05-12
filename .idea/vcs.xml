@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/portfolio/Sprint-Challenge--User-Interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/portfolio/responsive-web-design-I" vcs="Git" />
   </component>
 </project>

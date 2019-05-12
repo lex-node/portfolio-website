@@ -3845,7 +3845,7 @@ input, select, textarea {
 
 		}
 
-#placeholder{
+.placeholder{
 	display: none;
 }
 
