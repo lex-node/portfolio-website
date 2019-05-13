@@ -1,0 +1,6 @@
+[submodule "portfolio/Sprint-Challenge--User-Interface"]
+	path = portfolio/Sprint-Challenge--User-Interface
+	url = https://github.com/lex-node/Sprint-Challenge--User-Interface.git
+[submodule "portfolio/responsive-web-design-I"]
+	path = portfolio/responsive-web-design-I
+	url = https://github.com/lex-node/responsive-web-design-I.git
